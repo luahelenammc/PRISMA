@@ -1,0 +1,3 @@
+# Documentary debate versus mask
+
+Synthetic source A: an invented public speaker argues that a city's transport should prioritize reliability. Source B: another invented speaker prioritizes affordability. Lens reconstructs those stated priorities, with A/B locators, without making up a quotation. Table compares a reliability-first and affordability-first policy, noting possible tension and common ground. If expressly asked for dramatization, a separately labeled fictional Mask may illustrate a debate; none of its words becomes a real quote. No election targeting or actual public figure is implied.

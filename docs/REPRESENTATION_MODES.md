@@ -1,0 +1,3 @@
+# Modes and composition
+
+Lens: source-first analysis, no invented direct speech. Mask: expressive fiction, clearly labeled and explicitly requested, not evidence. Table: compare limited perspectives, disclose provenance and disagreement. Mirror: only appropriate source and explicit consent. Counterproof: adversarial assumptions and failure conditions, not invented conflict. World: character knowledge, source chronology and candidate-only invention. Reception: plausible readings with alternatives and uncertainty, not private mental-state claims. Use a single mode for a single responsibility; combine them only when the combination adds value. See [canonical method](../PRISMA.md).
