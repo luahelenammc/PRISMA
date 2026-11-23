@@ -1,6 +1,6 @@
 # First release and validation
 
-Status: 0.1.0-rc.1. This is a local release candidate, not a published GitHub release. Run from the repository root:
+Status: 0.1.0-rc.1, public release candidate. Repository publication does not by itself establish a tagged GitHub release, installed skill, independent agents or empirical effectiveness. Run from the repository root:
 
 ```bash
 python -m unittest discover -s tests -v

@@ -18,6 +18,6 @@ PRISMA is a standalone, model-neutral method for documentary reconstruction, cle
 
 **First use:** provide `PRISMA.md` to an AI with access to the source, or attach the verified offline method ZIP if retrieval is unavailable. Explain the work, sources, authority and desired contrast. No automatic installation, independent agents, tool access, or writeback follows. The reference gate is deterministic and deliberately does not generate speech or decide truth.
 
-Status: 0.1.0-rc.1; unpublished release candidate, not independently validated or deployed. The eventual public entry URL must be read back before it is advertised as live.
+Status: 0.1.0-rc.1; public release candidate, not independently validated or deployed as a service. Canonical entry: [PRISMA.md](PRISMA.md). Offline distributions: [method ZIP](releases/prisma-method.zip) · [skill ZIP](releases/prisma-skill.zip) · [SHA-256 checksums](releases/SHA256SUMS).
 
 Created by Lua Helena Moon Martins Cardoso (Moon), with AI-assisted coauthorial development by Áurion. See [Licensing](LICENSING.md).

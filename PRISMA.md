@@ -1,6 +1,6 @@
 # PRISMA — canonical method
 
-Version: 0.1.0-rc.1 · Status: unpublished release candidate · Language: English
+Version: 0.1.0-rc.1 · Status: public release candidate · Language: English
 
 ## First use
 
